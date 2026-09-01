@@ -1,5 +1,5 @@
 {
-  "actualizadoEn": "2026-08-31T18:00:33.681Z",
+  "actualizadoEn": "2026-09-01T18:00:25.342Z",
   "fuenteIbc": "https://www.bolsadecaracas.com/wp-admin/admin-ajax.php (chartsData)",
   "fuenteBcv": "https://bcv.today/api/v1/rate.json",
   "cierres": [
@@ -1982,6 +1982,11 @@
       "fecha": "2026-08-31",
       "ibc": 5588.28,
       "bcv": 794.9917
+    },
+    {
+      "fecha": "2026-09-01",
+      "ibc": 5606.64,
+      "bcv": 798.326
     }
   ]
 }
